@@ -2078,8 +2078,8 @@ body.js-page-out .pointer {
 }
 
 .header-logo__img {
-	width: auto;
-	height: 20px;
+	width: 25%;
+	height: 25%; 
 	vertical-align: top;
 	-webkit-transform: translateX(-110%);
 	    -ms-transform: translateX(-110%);

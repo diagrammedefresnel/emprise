@@ -20,7 +20,7 @@
                       <div class="text-xs font-weight-bold text-primary text-uppercase mb-3"><h2>Articles</h2></div>
                       <div class="h5 mb-0 font-weight-bold text-gray-800 mb-5">Nombre d'articles du blog : 52</div>
                       <div class="mt-3 text-center">
-                        <a href="articles/edit.php" class="btn btn-primary">Ecrire un article</a>
+                        <a href="edit.php" class="btn btn-primary">Ecrire un article</a>
                         <a href="" class="btn btn-success">Lister les articles</a>
                       </div>
                     </div>

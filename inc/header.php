@@ -62,7 +62,7 @@
 		<!-- logo start -->
 		<div class="header-logo js-midnight-color js-headroom">
 			<div class="hidden-box">
-				<a href="index.html" class="header-logo__box js-pointer-large js-animsition-link">
+				<a href="index.php" class="header-logo__box js-pointer-large js-animsition-link">
 					<img class="header-logo__img white" src="assets/images/logo/logo-white.png" alt="logo" width="10%">
 					<img class="header-logo__img black" src="assets/images/logo/logo-bg.png" alt="logo"  width="10%" >
 				</a>
@@ -76,17 +76,6 @@
 				<span class="menu-icon__close"></span>
 			</div>
 		</div><!-- menu-icon end -->
-
-		<!-- header-contact start -->
-		<!-- <div class="header-contact js-midnight-color js-headroom">
-				<div class="header-contact__flex">
-					<div class="header-contact__anim">
-						<a href="#" class="header-contact__btn vertical-text center js-pointer-large">
-							<span class="vertical-text__inner"><i class="far fa-comment-dots"></i> Get in touch</span>
-						</a>
-					</div>
-				</div> -->
-		</div><!-- header-contact end -->
 
 		<!-- header-social start -->
 		<div class="header-social after-preloader-anim js-midnight-color js-headroom">
@@ -169,7 +158,7 @@
 				<!-- nav-btn-box start -->
 
 				<li class="nav-btn-box">
-					<a href="index.html"
+					<a href="index.php"
 						class="nav-btn large dropdown-hidden-btn js-animsition-link js-pointer-large">
 						<span class="nav-btn__inner" data-text="Accueil">Accueil</span>
 					</a>
@@ -177,20 +166,19 @@
 
 
 				<li class="nav-btn-box">
-					<a href="agence.html"
-						class="nav-btn large dropdown-hidden-btn js-animsition-link js-pointer-large">
+					<a href="agence.php" class="nav-btn large dropdown-hidden-btn js-animsition-link js-pointer-large">
 						<span class="nav-btn__inner" data-text="Agence">Agence</span>
 					</a>
 				</li>
 
 				<li class="nav-btn-box">
-					<a class="nav-btn large dropdown-hidden-btn js-pointer-large">
+					<a class="nav-btn large dropdown-hidden-btn js-animsition-link js-pointer-large" href="blog.php">
 						<span class="nav-btn__inner" data-text="Blog">Blog</span>
 					</a>
 				</li>
 				
 				<li class="nav-btn-box">
-					<a href="contact.html"
+					<a href="contact.php"
 						class="nav-btn large dropdown-hidden-btn js-animsition-link js-pointer-large">
 						<span class="nav-btn__inner" data-text="Contact">Contact</span>
 					</a>

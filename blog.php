@@ -4,7 +4,7 @@
 <main class="js-animsition-overlay" data-animsition-overlay="true">
     <!-- pos-rel start -->
     <section id="up" class="pos-rel js-parallax-bg"
-        style="background-image:url(assets/images/backgrounds/person-holding-white-ceramic-coffee-cup-leaning-on-brown-179912.jpg)">
+        style="background-image:url(assets/images/backgrounds/emprise.jpg)">
         <!-- bg-overlay -->
         <div class="bg-overlay-black"></div>
         <!-- pos-rel start -->
@@ -12,7 +12,7 @@
             <div class="padding-top-bottom-120 width-100perc">
                 <!-- title start -->
                 <h2 class="headline-xxxxl text-center hidden-box after-preloader-anim">
-                    <span class="anim-slide">Grid with Filter</span>
+                    <span class="anim-slide">BLOG</span>
                 </h2><!-- title end -->
             </div>
         </div><!-- pos-rel end -->
@@ -23,7 +23,6 @@
         <!-- pos-rel start -->
         <div class="pos-rel padding-top-bottom-120">
 
-            <!-- filter-buttons start -->
             <div class="list list_row list_center list_margin-30px container js-filter-button-box js-scrollanim">
                 <button class="list__item js-filter-button anim-fade js-pointer-small js-filter-button-active"
                     data-filter="*">
@@ -40,7 +39,7 @@
                     data-filter=".design">
                     <span class="flip-btn text-color-black" data-text="Design">Design</span>
                 </button>
-            </div><!-- filter-buttons end -->
+            </div>
 
             <!-- js-isotope-filter-grid-box start -->
             <div class="js-isotope-filter-grid-box padding-top-20 container">

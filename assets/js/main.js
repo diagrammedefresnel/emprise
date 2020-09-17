@@ -1,29 +1,3 @@
-/* ==========================================================================
-
-   Table of content:
-
-   1. Custom mouse cursor
-   2. Animsition preloader
-   3. Swiper slider
-   4. Isotope filter
-   5. Scroll animations
-   6. Navigation open/close
-   7. Drop-down menu
-   8. Midnight header
-   9. Footer hover effect
-   10. Magnific popup
-   11. Touch, no touch
-   12. Scroll to id
-   13. Progress bar
-   14. Accordion
-   15. Headroom
-   16. Scroll btn hide on scroll
-   17. Parallax background
-   18. Contact form
-
-   ========================================================================== */
-
-
 
 
 

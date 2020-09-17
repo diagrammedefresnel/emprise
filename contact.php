@@ -4,7 +4,7 @@
 <main class="js-animsition-overlay" data-animsition-overlay="true">
     <!-- pos-rel start -->
     <section id="up" class="pos-rel js-parallax-bg"
-        style="background-image:url(assets/images/backgrounds/kal-visuals--UG2O1U2EfY-unsplash.jpg)">
+        style="background-image:url(assets/images/backgrounds/contact.jpg)">
         <!-- bg-overlay -->
         <div class="bg-overlay-black"></div>
         <!-- pos-rel start -->

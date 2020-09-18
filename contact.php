@@ -13,17 +13,15 @@
                 <!-- title start -->
                 <h2 class="headline-xl">
                     <span class="hidden-box d-block">
-                        <span class="anim-slide">The Best</span>
+                        <span class="anim-slide">La meilleure</span>
                     </span>
                     <span class="hidden-box d-block">
-                        <span class="anim-slide tr-delay-01">Agency for</span>
+                        <span class="anim-slide tr-delay-01">des agences pour</span>
                     </span>
                     <span class="hidden-box d-block">
-                        <span class="anim-slide tr-delay-02">Your Businnes</span>
+                        <span class="anim-slide tr-delay-02">votre Business</span>
                     </span>
                 </h2><!-- title end -->
-                <p class="subhead-xs text-color-dadada margin-top-20 anim-fade tr-delay-04">Tote bag cornhole pork
-                    belly swag vexillologist godard.</p>
             </div>
         </div><!-- pos-rel end -->
     </section><!-- pos-rel end -->
@@ -50,15 +48,11 @@
                             <div class="padding-top-20">
                                 <h6 class="anim-fade tr-delay-01">
                                     <a href="#"
-                                        class="subhead-xxs text-color-dadada text-hover-to-red js-pointer-small">email@umaya.com</a>
+                                        class="subhead-xxs text-color-dadada text-hover-to-red js-pointer-small">infos@emprice.ci</a>
                                 </h6><br>
                                 <h6 class="anim-fade tr-delay-02">
                                     <a href="#"
-                                        class="subhead-xxs text-color-dadada text-hover-to-red js-pointer-small">email@umaya_job.com</a>
-                                </h6><br>
-                                <h6 class="anim-fade tr-delay-03">
-                                    <a href="#"
-                                        class="subhead-xxs text-color-dadada text-hover-to-red js-pointer-small">email@umaya_agency.com</a>
+                                        class="subhead-xxs text-color-dadada text-hover-to-red js-pointer-small">customers@emprise.ci</a>
                                 </h6>
                             </div>
                         </div>
@@ -71,78 +65,42 @@
                             <h6 class="list list_margin-1px padding-top-20 text-color-b0b0b0">
                                 <span class="list__item">
                                     <span class="d-inline-block hidden-box">
-                                        <span class="subhead-xxs anim-reveal tr-delay-01">PO Box 223158</span>
+                                        <span class="subhead-xxs anim-reveal tr-delay-01">Cocody Cité des Arts</span>
                                     </span>
                                 </span>
                                 <span class="list__item">
                                     <span class="d-inline-block hidden-box">
-                                        <span class="subhead-xxs anim-reveal tr-delay-02">Oliver Street q g</span>
+                                        <span class="subhead-xxs anim-reveal tr-delay-02">Abidjan</span>
                                     </span>
                                 </span>
                                 <span class="list__item">
                                     <span class="d-inline-block hidden-box">
-                                        <span class="subhead-xxs anim-reveal tr-delay-03">East Victoria 2006
-                                            UK</span>
+                                        <span class="subhead-xxs anim-reveal tr-delay-03">Côte d'Ivoire
+                                            CI</span>
                                     </span>
                                 </span>
                             </h6>
-                            <div class="padding-top-10 anim-fade tr-delay-04">
-                                <a href="#"
-                                    class="subhead-xxs text-color-dadada text-hover-to-red js-pointer-small">Open in
-                                    google maps</a>
-                            </div>
                         </div>
                     </div><!-- column end -->
 
                     <!-- column start -->
                     <div class="four-columns column-50-100 padding-top-60">
                         <div class="column-r-margin-20 js-scrollanim">
-                            <p class="headline-xxxxs anim-text-double-fill invert" data-text="Call us">Call us</p>
+                            <p class="headline-xxxxs anim-text-double-fill invert" data-text="Call us">Appelez nous</p>
                             <div class="padding-top-20">
                                 <h6 class="anim-fade tr-delay-01">
                                     <a href="#"
-                                        class="subhead-xxs text-color-dadada text-hover-to-red js-pointer-small">+23
-                                        8 8345 7346</a>
+                                        class="subhead-xxs text-color-dadada text-hover-to-red js-pointer-small">+225 00 00 00 00</a>
                                 </h6><br>
                                 <h6 class="anim-fade tr-delay-02">
                                     <a href="#"
-                                        class="subhead-xxs text-color-dadada text-hover-to-red js-pointer-small">+23
-                                        8 8532 7834</a>
+                                        class="subhead-xxs text-color-dadada text-hover-to-red js-pointer-small">+225 00 00 00 00</a>
                                 </h6>
                             </div>
                         </div>
                     </div><!-- column end -->
                 </div><!-- flex-container end -->
 
-                <!-- social btns start -->
-                <div class="padding-top-90">
-                    <ul class="list list_row list_margin-30px js-scrollanim">
-                        <li class="list__item anim-fade">
-                            <a href="#" class="fill-btn text-color-979797 js-pointer-small"
-                                data-text="Facebook">Facebook</a>
-                        </li>
-                        <li class="list__item anim-fade tr-delay-01">
-                            <a href="#" class="fill-btn text-color-979797 js-pointer-small"
-                                data-text="Dribbble">Dribbble</a>
-                        </li>
-                        <li class="list__item anim-fade tr-delay-02">
-                            <a href="#" class="fill-btn text-color-979797 js-pointer-small"
-                                data-text="Instagram">Instagram</a>
-                        </li>
-                        <li class="list__item anim-fade tr-delay-03">
-                            <a href="#" class="fill-btn text-color-979797 js-pointer-small"
-                                data-text="Youtube">Youtube</a>
-                        </li>
-                        <li class="list__item anim-fade tr-delay-04">
-                            <a href="#" class="fill-btn text-color-979797 js-pointer-small"
-                                data-text="Behance">Behance</a>
-                        </li>
-                        <li class="list__item anim-fade tr-delay-05">
-                            <a href="#" class="fill-btn text-color-979797 js-pointer-small"
-                                data-text="Twitter">Twitter</a>
-                        </li>
-                    </ul>
-                </div><!-- social btns end -->
             </div><!-- container end -->
         </div><!-- pos-rel end -->
     </section><!-- contact us end -->
@@ -156,40 +114,40 @@
         <div class="pos-rel flex-min-height-100vh">
             <!-- container start -->
             <div class="container small padding-top-bottom-120 form-box">
-                <h4 class="headline-xxxxs text-center">Lets Get In Touch!</h4>
+                <h1 class="headline-xxxxs text-center"><span style="font-size:50px">Ecrivez nous</span> </h1>
                 <!-- flex-container start -->
                 <form action="#" method="post" name="formobrsv" id="send_form" class="flex-container padding-top-90">
                     <!-- column start -->
                     <div class="four-columns">
                         <div class="column-r-margin-10">
-                            <input type="text" name="first_name" placeholder="Enter your name" id="first_name" required
+                            <input type="text" name="name" placeholder="Entrer votre nom" id="first_name" required
                                 class="form-input js-pointer-small">
                         </div>
                     </div><!-- column end -->
                     <!-- column start -->
                     <div class="four-columns">
                         <div class="column-l-r-margin-5">
-                            <input type="text" name="last_name" placeholder="Enter your last name" id="last_name"
+                            <input type="email" name="last_name" placeholder="Entrer votre mail" id="email"
                                 required class="form-input js-pointer-small">
                         </div>
                     </div><!-- column end -->
                     <!-- column start -->
                     <div class="four-columns">
                         <div class="column-l-margin-10">
-                            <input type="email" name="email" placeholder="Enter your email address" id="email" required
+                            <input type="text" name="subject" placeholder="Entrer votre sujet" id="subject" required
                                 class="form-input js-pointer-small">
                         </div>
                     </div><!-- column end -->
                     <!-- column start -->
                     <div class="twelve-columns">
-                        <textarea name="message" placeholder="Enter your message" id="message" required
+                        <textarea name="message" placeholder="Entrer votre message ici" id="message" required
                             class="form-input js-pointer-small"></textarea>
                     </div><!-- column end -->
                     <!-- column start -->
                     <div class="twelve-columns text-center padding-top-90">
                         <button id="send" class="border-btn js-pointer-large">
-                            <span class="border-btn__inner">submit</span>
-                            <span class="btn-wait">Wait</span>
+                            <span class="border-btn__inner">Envoyer</span>
+                            <span class="btn-wait">Patienter</span>
                             <span class="border-btn__lines-1"></span>
                             <span class="border-btn__lines-2"></span>
                         </button>

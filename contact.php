@@ -107,7 +107,7 @@
 
     <!-- form section start -->
     <section class="pos-rel bg-img-cover"
-        style="background-image:url(assets/images/backgrounds/architecture-buildings-city-fog-373965.jpg)">
+        style="background-image:url(assets/images/backgrounds/message.jpg)">
         <!-- bg-overlay -->
         <div class="bg-overlay-black"></div>
         <!-- pos-rel start -->

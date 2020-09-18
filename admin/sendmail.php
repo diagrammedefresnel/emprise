@@ -6,7 +6,7 @@
     <!-- Page Heading -->
     <div class="d-sm-flex align-items-center justify-content-between
               ">
-        <h1 class="h1 mb-5 text-gray-800 mt-4">Création d'un Article</h1>
+        <h1 class="h1 mb-5 text-gray-800 mt-4"> <i class="fa fa-paper-plane" aria-hidden="true"></i> Envoie de Mail</h1>
     </div>
 
     <!-- Content Row -->
@@ -25,7 +25,7 @@
                 <div class="dropdown-menu dropdown-menu-right shadow
                       animated--fade-in" aria-labelledby="dropdownMenuLink">
                     <div class="dropdown-header">Action:</div>
-                    <a class="dropdown-item" href="list.html">Lister les articles</a>
+                    <a class="dropdown-item" href="list.html">Lister les messages</a>
                     <a class="dropdown-item" href="home.php">Annuler la saisie</a>
                     <div class="dropdown-divider"></div>
                 </div>
@@ -37,30 +37,19 @@
 
             <form>
 
-                <div class="custom-file mb-4">
-                    <input type="file" class="custom-file-input" required>
-                    <label class="custom-file-label" for="validatedCustomFile">Choississez votre image...</label>
-                    <div class="invalid-feedback">Example invalid custom file feedback</div>
+                <div class="form-group">
+                    <label for="mail">Mail</label>
+                    <input id="mail" name="mail" placeholder="Entrez le Mail" type="text" class="form-control">
                 </div>
 
                 <div class="form-group">
-                    <label for="title">Titre de L'article</label>
-                    <input id="title" name="title" placeholder="Titre de l'article" type="text" class="form-control">
+                    <label for="sujet">Sujet</label>
+                    <input id="sujet" name="legende" placeholder="Entrez le sujet" type="text" class="form-control">
                 </div>
 
                 <div class="form-group">
-                    <label for="legende">Légende</label>
-                    <input id="legende" name="legende" placeholder="Légende" type="text" class="form-control">
-                </div>
-
-                <div class="form-group">
-                    <label for="Chapeau">Chapeau</label>
-                    <input id="Chapeau" name="Chapeau" placeholder="chapeau" type="text" class="form-control">
-                </div>
-
-                <div class="form-group">
-                    <label for="content">Corps du texte</label>
-                    <textarea id="content" name="content" cols="40" rows="10" class="form-control"></textarea>
+                    <label for="message">Message</label>
+                    <textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Entrez votre texte"></textarea>
                 </div>
 
                 <div class="form-group">

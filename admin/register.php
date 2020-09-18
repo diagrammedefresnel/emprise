@@ -52,11 +52,22 @@ assets/
                     <input type="password" class="form-control form-control-user" id="exampleRepeatPassword" placeholder="Répétez votre mot de passe">
                   </div>
                 </div>
-                <a href="home.html" class="btn btn-primary btn-user btn-block">
+                <a href="home.php" class="btn btn-primary btn-user btn-block">
                   Creation
                 </a>
-                <hr>
-                Si vous n'arrivez pas à vous inscrire veuillez contacter l'administrateur
+
+                <hr class="mb-5 mt-5">
+
+                <p class="mb-5">
+                  Si vous n'arrivez pas à vous inscrire veuillez contacter l'administrateur
+                </p>
+
+
+                <div class="text-center">
+                  <img src="../assets/images/logo/logo-white.png" alt="emprise logo" width="75%">
+                </div>
+
+
             </div>
           </div>
         </div>

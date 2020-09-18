@@ -6,7 +6,7 @@
             <!-- Page Heading -->
             <div class="d-sm-flex align-items-center justify-content-between
               mb-4">
-              <h1 class="h1 mb-5 text-gray-800 mt-4">Création d'un Article</h1>
+              <h1 class="h1 mb-5 text-gray-800 mt-4">Modification de l'article 1 </h1>
             </div>
 
             <!-- Content Row -->
@@ -16,7 +16,7 @@
                 <!-- Card Header - Dropdown -->
                 <div class="card-header py-3 d-flex flex-row align-items-center
                   justify-content-between col-md-12 col-xl-12">
-                  <h6 class="m-0 font-weight-bold text-warning">Veuillez à remplir tous les champs</h6>
+                  <h6 class="m-0 font-weight-bold text-warning">Veuillez à changer les champs que vous voulez modifier</h6>
                   <div class="dropdown no-arrow">
                     <a class="dropdown-toggle" href="#" role="button"
                       id="dropdownMenuLink" data-toggle="dropdown"
@@ -26,9 +26,7 @@
                     <div class="dropdown-menu dropdown-menu-right shadow
                       animated--fade-in" aria-labelledby="dropdownMenuLink">
                       <div class="dropdown-header">Action:</div>
-                      <a class="dropdown-item" href="#">Lister les articles</a>
-                      <a class="dropdown-item" href="home.html">Annuler la saisie</a>
-                      <div class="dropdown-divider"></div>
+                      <a class="dropdown-item" href="home.php">Annuler la saisie</a>
                     </div>
                   </div>
                 </div>
@@ -65,7 +63,7 @@
                     </div> 
 
                     <div class="form-group">
-                      <button name="submit" type="submit" class="btn btn-primary">Poster l'article</button>
+                      <button name="submit" type="submit" class="btn btn-primary">Modifier l'article</button>
                     </div>
 
                   </form>
